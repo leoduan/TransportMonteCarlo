@@ -1,6 +1,6 @@
 # Transport Monte Carlo
 
-Sample code for using Transport Monte Carlo to generate iid posterior samples:
+Example code for using Transport Monte Carlo --- using random transport plan and optimization to rapidly estimate the posterior distribution
 
 1. Sampling from a Normal Mixture:
 https://nbviewer.jupyter.org/github/leoduan/TransportMonteCarlo/blob/master/gaussianMixtureTMC.ipynb
