@@ -3,12 +3,15 @@
 Sample code for using Transport Monte Carlo to generate iid posterior samples:
 
 1. Sampling from a Normal Mixture:
-https://nbviewer.jupyter.org/github/leoduan/TransportMonteCarlo/blob/master/gaussianMixture.ipynb
+https://nbviewer.jupyter.org/github/leoduan/TransportMonteCarlo/blob/master/gaussianMixtureTMC.ipynb
 
-2. High-dimensional regression using the regularized horseshoe prior (Piironen and Vehtari 2017) :
+2. Sampling from a multi-modal distribution (Liang 2005):
+https://nbviewer.jupyter.org/github/leoduan/TransportMonteCarlo/blob/master/MultimodalTMC.ipynb
+
+3. High-dimensional regression using the regularized horseshoe prior (Piironen and Vehtari 2017) :
 https://nbviewer.jupyter.org/github/leoduan/TransportMonteCarlo/blob/master/regularizedHorseshoe.ipynb
 
-3. Binary adjacency matrix estimation under degree regularization:
+4. Binary adjacency matrix estimation under degree regularization:
 https://github.com/leoduan/TransportMonteCarlo/blob/master/edgeSamplingUnderDegreeReg.ipynb
 
 
